@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title></title>
+	<link href="https://pleblab.github.io/BitcoinBuilderATX/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pleblab.github.io/BitcoinBuilderATX/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2025-07-24T00:00:00+00:00</updated>
+	<id>https://pleblab.github.io/BitcoinBuilderATX/feed.xml</id>
+	<entry xml:lang="en">
+		<title>₿uilder 2</title>
+		<published>2025-07-24T00:00:00+00:00</published>
+		<updated>2025-07-24T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://pleblab.github.io/BitcoinBuilderATX/builder-02/" type="text/html"/>
+		<id>https://pleblab.github.io/BitcoinBuilderATX/builder-02/</id>
+		<content type="html">&lt;h2 id=&quot;vote-on-topics&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.buildervoting.com&#x2F;socratic_seminars&#x2F;2&#x2F;topics&quot;&gt;Vote on Topics&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;intro-5-min&quot;&gt;Intro (5 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chatham house rules. No photos&#x2F;videos.&lt;&#x2F;li&gt;
+&lt;li&gt;Our 2nd event…review what we learned last time and applying to this one&lt;&#x2F;li&gt;
+&lt;li&gt;Presidio Bitcoin design week in September https:&#x2F;&#x2F;event.bitcoin.design&lt;&#x2F;li&gt;
+&lt;li&gt;Miami ₿uilder, and hoping to see more of these pop up around the world!&lt;&#x2F;li&gt;
+&lt;li&gt;10 second intros
+&lt;ul&gt;
+&lt;li&gt;Name, what you do, what you want to get out of ₿uilder&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;vibe-coded-app-showcase-30-min&quot;&gt;Vibe-Coded App Showcase (30 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mat Balez Zero to Bitcoin App in under 15 minutes&lt;&#x2F;li&gt;
+&lt;li&gt;Damian demo&#x27;ing Sando&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;startup-showcase-10-min&quot;&gt;Startup Showcase (10 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;David Bryson checkout.tech demo&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;discussions-60-min&quot;&gt;Discussions (60 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;“maybe human money and machine money will be totally different things” https:&#x2F;&#x2F;x.com&#x2F;sama&#x2F;status&#x2F;1945541270438646270&lt;&#x2F;li&gt;
+&lt;li&gt;Why build with bitcoin vs. stablecoins?&lt;&#x2F;li&gt;
+&lt;li&gt;Future of bitcoin payment protocols, tech platforms&lt;&#x2F;li&gt;
+&lt;li&gt;How to untangle payment protocol mess&lt;&#x2F;li&gt;
+&lt;li&gt;Pick a big tech company&#x2F;product…brainstorm how bitcoin could be added to it and add value&lt;&#x2F;li&gt;
+&lt;li&gt;Mixing digital and physical world: Integrating vibe-coded apps with billboards&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;news-15-min&quot;&gt;News (15 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simple Proof. How does it compare to OpenTimestamps? Why hasn’t a product like this found product-market fit yet? https:&#x2F;&#x2F;stacker.news&#x2F;items&#x2F;1041737&#x2F;r&#x2F;dk&lt;&#x2F;li&gt;
+&lt;li&gt;Coinbase integrates farcaster … can an everything-app like Base catalyze payments? https:&#x2F;&#x2F;x.com&#x2F;base&#x2F;status&#x2F;1945624674656030985&lt;&#x2F;li&gt;
+&lt;li&gt;Nevada the new Delaware? https:&#x2F;&#x2F;x.com&#x2F;a16z&#x2F;status&#x2F;1942974830774829428&lt;&#x2F;li&gt;
+&lt;li&gt;Big beautiful bill impact on bitcoin mining and taxes https:&#x2F;&#x2F;x.com&#x2F;WilsonMining&#x2F;status&#x2F;1945179417279652036&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>₿uilder 1</title>
+		<published>2025-06-26T00:00:00+00:00</published>
+		<updated>2025-06-26T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://pleblab.github.io/BitcoinBuilderATX/builder-01/" type="text/html"/>
+		<id>https://pleblab.github.io/BitcoinBuilderATX/builder-01/</id>
+		<content type="html">&lt;h2 id=&quot;vote-on-topics&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.buildervoting.com&#x2F;socratic_seminars&#x2F;1&#x2F;topics&quot;&gt;Vote on Topics&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;intro-10-min&quot;&gt;Intro (10 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Chatham House Rules — No photos&#x2F;videos&lt;&#x2F;li&gt;
+&lt;li&gt;This is our first ₿uilder! We’re very open to feedback and ideas on how to make these events great. Feel free to suggest ideas during the meetup or afterwards&lt;&#x2F;li&gt;
+&lt;li&gt;Define ₿uilder and purpose for starting this event series&lt;&#x2F;li&gt;
+&lt;li&gt;Anyone can be a ₿uilder! Vibe coding makes building apps approachable and intuitive&lt;&#x2F;li&gt;
+&lt;li&gt;Quick Show of Hands
+&lt;ul&gt;
+&lt;li&gt;Who works for big tech? PM? Designer? Other?&lt;&#x2F;li&gt;
+&lt;li&gt;Who has vibe coded before? Integrated bitcoin?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;10 Second Intros
+&lt;ul&gt;
+&lt;li&gt;Name&lt;&#x2F;li&gt;
+&lt;li&gt;What you do&lt;&#x2F;li&gt;
+&lt;li&gt;What you want to get out of ₿uilder&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;vibe-coded-app-showcase&quot;&gt;Vibe-Coded App Showcase&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Anyone?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;startup-showcase&quot;&gt;Startup Showcase&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Agicash&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;bitcoin-products-20-min&quot;&gt;Bitcoin Products (20 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Block rolls out &lt;a href=&quot;https:&#x2F;&#x2F;block.xyz&#x2F;inside&#x2F;block-to-roll-out-bitcoin-payments-on-square&quot;&gt;Bitcoin payments on Square&lt;&#x2F;a&gt; at the Bitcoin 2025 Conference in Las Vegas
+&lt;ul&gt;
+&lt;li&gt;Steak N Shake reports &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;steak-n-shake-reveals-bitcoin-payment-success-at-bitcoin-2025-conference&quot;&gt;50% savings on processing fees when using BTC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Square is earning &lt;a href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;tech&#x2F;2025&#x2F;05&#x2F;29&#x2F;square-flies-the-flag-for-the-lightning-network-with-97-yield-on-bitcoin-holdings&quot;&gt;9.7% returns&lt;&#x2F;a&gt; on its C= Lighting Service Provider
+&lt;ul&gt;
+&lt;li&gt;Bitrefill reports &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitrefill&#x2F;status&#x2F;1930217463779676334&quot;&gt;3.5% returns&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Amboss launches &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;amboss-launches-rails-a-self-custodial-bitcoin-yield-service&quot;&gt;Rails&lt;&#x2F;a&gt;, a self-custody Bitcoin yield service&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Coinbase Credit Card &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;coinbase-announces-bitcoin-rewards-credit-card-offering-up-to-4-btc-back-on-everything&quot;&gt;preannouncement&lt;&#x2F;a&gt;. 2%–4% back in BTC depending on assets held&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;start9labs&#x2F;status&#x2F;1934983769863364785&quot;&gt;Start9 moves Knots to the Main Registry&lt;&#x2F;a&gt; Previously in the Community Registry
+&lt;ul&gt;
+&lt;li&gt;Knots at &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;UnderCoercion&#x2F;status&#x2F;1934943172872044892&quot;&gt;13% market share&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Home equity → bitcoin: &lt;a href=&quot;https:&#x2F;&#x2F;www.joinhorizon.com&#x2F;&quot;&gt;Horizon&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;www.sovana.io&#x2F;&quot;&gt;Sovana&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;DiamondHandsLN&#x2F;status&#x2F;1922642890271916443&quot;&gt;Lightning Wallet Market in Japan&lt;&#x2F;a&gt; 64%: Wallet of Satoshi&lt;&#x2F;li&gt;
+&lt;li&gt;Foundation will release &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;passport-prime-a-new-security-device-for-a-new-generation&quot;&gt;Passport Prime in Q3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=MjMPDUWWegw&quot;&gt;COLDCARD Co-Sign (CCC)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitkey introduces &lt;a href=&quot;https:&#x2F;&#x2F;bitkey.build&#x2F;introducing-security-hub-your-bitkey-security-setup-all-in-one-place&#x2F;&quot;&gt;Security Hub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Ledger &lt;a href=&quot;https:&#x2F;&#x2F;news.bitcoin.com&#x2F;ledger-to-phase-out-nano-s-model-urges-users-to-upgrade&#x2F;&quot;&gt;sunsets Nano S&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Xverse integrates Lightning via &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;press-releases&#x2F;1-5-million-users-to-access-bitcoins-lightning-network-on-xverse-thanks-to-sati&quot;&gt;Sati&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Wallet of Satoshi &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;walletofsatoshi&#x2F;status&#x2F;1923875750165479768&quot;&gt;non-custodial wallet available again in the US&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blitz-wallet.com&quot;&gt;Blitz&lt;&#x2F;a&gt;: first Spark mobile wallet&lt;&#x2F;li&gt;
+&lt;li&gt;Magic Eden partners with &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;magic-eden-partners-with-spark-to-bring-fast-cheap-bitcoin-settlements&quot;&gt;Spark for faster and cheaper BTC settlements&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;cake-wallet-introduces-payjoin-v2-increasing-bitcoin-privacy-for-the-masses&quot;&gt;Cake wallet adds Payjoin v2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;regulatory-4-min&quot;&gt;Regulatory (4 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Federal Housing Director &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;pulte&#x2F;status&#x2F;1937944964656152800?s=46&amp;amp;t=Bn5JvR0rQQB6SFpzCAc8rQ&quot;&gt;orders Fannie Mae to consider Crypto&lt;&#x2F;a&gt; as an asset for obtaining mortgages&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;the-clarity-act-heads-to-house-floor-for-vote-with-protection-for-noncustodial-tools-intact&quot;&gt;Clarity Act heads to House floor for Vote&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;BRCA included in market structure bill, the &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1931875497388245195&quot;&gt;Clarity Act&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;saveourwallets.org&quot;&gt;Save our Wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;bitcoin-design-30-min&quot;&gt;Bitcoin Design (30 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;₿-only convention for displaying bitcoin quantities
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1821&quot;&gt;BIP-177&lt;&#x2F;a&gt; describes a new approach to bitcoin units that deprecates both the use of decimals and the usage of “sats&#x2F;satoshis”&lt;&#x2F;li&gt;
+&lt;li&gt;New page added to &lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.design&#x2F;guide&#x2F;designing-products&#x2F;units-and-symbols&#x2F;&quot;&gt;Design guide&lt;&#x2F;a&gt; with proposed best practices&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boardwalkcash.com&#x2F;wallet&quot;&gt;Boardwalk Cash is an example of a product leading and embracing the change&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Seedless is safer debate&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;discussions-40-min&quot;&gt;Discussions (40 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The emergence of vibecoding&lt;&#x2F;li&gt;
+&lt;li&gt;TradFi payments vs. stablecoins vs. bitcoin: Where does bitcoin separate itself?&lt;&#x2F;li&gt;
+&lt;li&gt;Mixing digital and physical: Integrating vibe-coded apps with billboards&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;miscellaneous-1-min&quot;&gt;Miscellaneous (1 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;pbquantum.com&#x2F;&quot;&gt;Presidio Bitcoin Quantum Summit: Applications Open&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Presidio Bitcoin Design Week in September (more info coming soon)&lt;&#x2F;li&gt;
+&lt;li&gt;Miami ₿uilder — and hopes for more around the world!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;wrapping-up-5-min&quot;&gt;Wrapping Up (5 min)&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;What went well?&lt;&#x2F;li&gt;
+&lt;li&gt;Areas of improvement for future meetups&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+</feed>
