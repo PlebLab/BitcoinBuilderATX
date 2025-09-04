@@ -2,88 +2,101 @@
 <!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-    <title>
-      ₿uilder Austin
-    </title>
-    <meta name="description" content="Website for the ₿uilder Austin Meetup.">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="₿uilder Austin">
-    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
-    <link href="/index.css" rel="stylesheet" type="text/css">
-     
-    <!-- TODO: Delete these once a custom domain is in place -->
-    <link href="./index.css" rel="stylesheet" type="text/css">
-    <link href="../index.css" rel="stylesheet" type="text/css">
-        
+    <meta charset="utf-8" />
+    <title>₿uilder Austin</title>
+    <meta name="description" content="Website for the ₿uilder Austin Meetup." />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="₿uilder Austin" />
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml" />
+    <link rel="icon" href="/favicon.ico" />
+    <link href="/index.css" rel="stylesheet" type="text/css" />
+
     <style>
-      header {
-        text-align: center;
-      }
-
-      h1 {
-        font-size: 1.75rem; /* Adjust the font size as needed */
-      }
-
-      nav a {
-        display: inline-block; /* Allow links to wrap to the next line as a whole */
-        margin-right: 10px; /* Add some spacing between links */
-      }
+      /* Minimal layout helpers; keep or move to index.css */
+      :root { --max-w: 860px; --pad: 16px; }
+      body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; line-height: 1.5; color: #111; }
+      header, main, footer { max-width: var(--max-w); padding: 0 var(--pad); margin: 0 auto; }
+      header { text-align: center; padding-top: 24px; }
+      h1 { font-size: 1.75rem; margin: 0; }
+      h1 a { text-decoration: none; color: inherit; }
+      nav { margin: 10px 0 6px; display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+      nav a { text-decoration: none; }
+      hr { border: 0; border-top: 1px solid #e5e5e5; margin: 16px 0; }
+      article img { max-width: 200px; height: auto; display: block; margin: 12px 0; }
+      ul.posts { list-style: none; padding: 0; margin: 0; }
+      ul.posts li { margin: 6px 0; }
+      time { color: #666; }
+      footer { padding: 24px 0 40px; color: #666; font-size: 0.95rem; }
+      .visually-hidden { position: absolute; clip: rect(0 0 0 0); clip-path: inset(50%); width: 1px; height: 1px; overflow: hidden; white-space: nowrap; border: 0; padding: 0; margin: -1px; }
     </style>
   </head>
+
   <body>
     <header>
       <h1><a href="/">₿uilder Austin</a></h1>
-      <nav>
-        <a href="https://luma.com/calendar/cal-a9wRNBLgALnsGj9" target="_blank">Luma</a>
-        <a href="https://x.com/BTCBuildersClub" target="_blank">X</a>
-        <a href="https://github.com/PlebLab/BitcoinBuilderATX" target="_blank">GitHub</a>
+
+      <nav aria-label="Primary">
+        <a href="https://luma.com/calendar/cal-a9wRNBLgALnsGj9" target="_blank" rel="noopener noreferrer">Luma</a>
+        <a href="https://x.com/BTCBuildersClub" target="_blank" rel="noopener noreferrer">X</a>
+        <a href="https://github.com/PlebLab/BitcoinBuilderATX" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="/feed.xml">RSS</a>
-        <a href="https://pleblab.dev/" target="_blank">PlebLab</a>
-        <a href="https://capitalfactory.com/" target="_blank">Capital Factory</a>
-        <a href="https://www.buildervoting.com/organizations/1" target="_blank">Voting</a>
-        <a href="Cities/" target="_blank">Cities</a>
+        <a href="https://pleblab.dev/" target="_blank" rel="noopener noreferrer">PlebLab</a>
+        <a href="https://capitalfactory.com/" target="_blank" rel="noopener noreferrer">Capital Factory</a>
+        <a href="https://www.buildervoting.com/organizations/1" target="_blank" rel="noopener noreferrer">Voting</a>
+
+        <!-- Cities opens an in-page section to avoid 404s -->
+        <!-- If you later add /cities/index.html, change to: href="/cities/" (or "cities/") -->
+        <a href="#cities">Cities</a>
       </nav>
     </header>
-    <hr>
-    <article>
-      
-<p>
-  ₿uilder Austin is a monthly meetup focused on discussing product, design, and AI tools for individuals building on bitcoin. 
-  Everyone is welcome, whether you're an experienced product manager or designer, just starting out, or simply curious to learn.
-</p>
 
-<img src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/40/55504238-bb3b-471a-a358-85b7d7cb7bbd.png" alt="Bitcoin Builder SF Logo" style="max-width: 20%; height: auto;">
+    <hr />
 
-<h2>Socratic Seminars</h2>
-<ul class="posts">
+    <main>
+      <article>
+        <p>
+          ₿uilder Austin is a monthly meetup focused on discussing product, design, and AI tools
+          for individuals building on Bitcoin. Everyone is welcome—whether you're an experienced
+          product manager or designer, just starting out, or simply curious to learn.
+        </p>
 
-  
-    <li>
-      <time>15 Sept 2025</time>
-      »
-      <a href="https://luma.com/1l1iz00o">₿uilder 3</a>
-    </li>
-  
-    <li>
-      <time>21 Jul 2025</time>
-      »
-      <a href="https://lu.ma/k4krcjdt">₿uilder 2</a>
-    </li>
-  
-    <li>
-      <time>16 Jun 2025</time>
-      »
-      <a href="https://lu.ma/t991mhxm">₿uilder 1</a>
-    </li>
-  
-</ul>
+        <img
+          src="https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,background=white,quality=75,width=400,height=400/event-covers/40/55504238-bb3b-471a-a358-85b7d7cb7bbd.png"
+          alt="Bitcoin Builder meetup cover art"
+        />
 
-    </article>
-    <hr>
+        <h2>Socratic Seminars</h2>
+        <ul class="posts">
+          <li>
+            <time datetime="2025-09-15">15 Sept 2025</time> »
+            <a href="https://luma.com/1l1iz00o" target="_blank" rel="noopener noreferrer">₿uilder 3</a>
+          </li>
+          <li>
+            <time datetime="2025-07-21">21 Jul 2025</time> »
+            <a href="https://lu.ma/k4krcjdt" target="_blank" rel="noopener noreferrer">₿uilder 2</a>
+          </li>
+          <li>
+            <time datetime="2025-06-16">16 Jun 2025</time> »
+            <a href="https://lu.ma/t991mhxm" target="_blank" rel="noopener noreferrer">₿uilder 1</a>
+          </li>
+        </ul>
+
+        <hr />
+
+        <h2 id="cities">Cities</h2>
+        <p>Find a local Bitcoin Builder community in your area. Or start one!</p>
+        <ul>
+          <li><a href="https://bitcoinbuilderatx.com/" target="_blank" rel="noopener noreferrer">Austin</a></li>
+          <li><a href="https://www.bitcoinbuildersf.com/" target="_blank" rel="noopener noreferrer">San Francisco</a></li>
+          <li><a href="https://buildermiami.xyz/" target="_blank" rel="noopener noreferrer">Miami</a></li>
+        </ul>
+      </article>
+    </main>
+
+    <hr />
+
     <footer>
-      <span>
-      </span>
+      <span class="visually-hidden">End of page</span>
     </footer>
   </body>
 </html>
