@@ -1,6 +1,6 @@
 +++
 title = "₿uilder 6"
-date = 2026-1-29
+date = 2026-01-29
 +++
 
 ## Intro
