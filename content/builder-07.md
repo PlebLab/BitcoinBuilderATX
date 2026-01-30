@@ -1,5 +1,5 @@
 +++
-title = "₿uilder 6"
+title = "₿uilder 7"
 date = 2026-01-29
 +++
 
