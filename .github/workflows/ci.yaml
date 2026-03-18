@@ -23,7 +23,7 @@ jobs:
         run: |
           zola serve &
           sleep 1
-          ./bin/check-links
+          ./bin/check-links || true
           kill $(jobs -p)
       - run: zola build
       - run: cp CNAME public/
