@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://pleblab.github.io/BitcoinBuilderATX/sitemap.xml
+Sitemap: https://bitcoinbuilderatx.com/sitemap.xml

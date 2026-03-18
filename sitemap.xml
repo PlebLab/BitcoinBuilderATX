@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://pleblab.github.io/BitcoinBuilderATX/</loc>
+        <loc>https://bitcoinbuilderatx.com/</loc>
     </url>
     <url>
-        <loc>https://pleblab.github.io/BitcoinBuilderATX/builder-01/</loc>
+        <loc>https://bitcoinbuilderatx.com/ai-startup-rodeo-2026-03-10/</loc>
+        <lastmod>2026-03-10</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-01/</loc>
         <lastmod>2025-06-26</lastmod>
     </url>
     <url>
-        <loc>https://pleblab.github.io/BitcoinBuilderATX/builder-02/</loc>
+        <loc>https://bitcoinbuilderatx.com/builder-02/</loc>
         <lastmod>2025-07-24</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-03/</loc>
+        <lastmod>2025-08-28</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-04/</loc>
+        <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-05/</loc>
+        <lastmod>2025-10-23</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-06/</loc>
+        <lastmod>2025-12-11</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-07/</loc>
+        <lastmod>2026-01-29</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2025-06-16/</loc>
+        <lastmod>2025-06-16</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2025-07-21/</loc>
+        <lastmod>2025-07-21</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2025-09-15/</loc>
+        <lastmod>2025-09-15</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2025-11-17/</loc>
+        <lastmod>2025-11-17</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2025-12-15/</loc>
+        <lastmod>2025-12-15</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2026-01-19/</loc>
+        <lastmod>2026-01-19</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/builder-2026-02-16/</loc>
+        <lastmod>2026-02-16</lastmod>
+    </url>
+    <url>
+        <loc>https://bitcoinbuilderatx.com/cities/</loc>
     </url>
 </urlset>
