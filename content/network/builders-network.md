@@ -1,6 +1,7 @@
 +++
 title = "Bitcoin Builders Network"
 date = 2026-03-19
+aliases = ["builders-network"]
 +++
 
 Bitcoin Builders is growing across cities.
