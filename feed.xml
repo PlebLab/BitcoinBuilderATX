@@ -127,6 +127,24 @@
 </content>
 	</entry>
 	<entry xml:lang="en">
+		<title>Bitcoin Builders Network</title>
+		<published>2026-03-19T00:00:00+00:00</published>
+		<updated>2026-03-19T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://bitcoinbuilderatx.com/builders-network/" type="text/html"/>
+		<id>https://bitcoinbuilderatx.com/builders-network/</id>
+		<content type="html">&lt;p&gt;Bitcoin Builders is growing across cities.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;San Francisco: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bBuilderSF&quot;&gt;@bBuilderSF&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Miami: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BuilderMiami&quot;&gt;@BuilderMiami&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Vancouver: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BTCBuilderVan&quot;&gt;@BTCBuilderVan&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Want to launch one in your hometown or city?&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Use this repo to join and start one: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;PlebLab&#x2F;BitcoinBuilderATX&quot;&gt;PlebLab&#x2F;BitcoinBuilderATX&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
 		<title>AI Startup Rodeo at SXSW &#x27;26 (Unofficial)</title>
 		<published>2026-03-10T00:00:00+00:00</published>
 		<updated>2026-03-10T00:00:00+00:00</updated>
