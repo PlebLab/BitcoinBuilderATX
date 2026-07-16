@@ -13,35 +13,27 @@
     <link rel="apple-touch-icon" href="/builder-logo.jpg">
     <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
     <link href="/index.css" rel="stylesheet" type="text/css">
-     
-    <!-- TODO: Delete these once a custom domain is in place -->
-    <link href="./index.css" rel="stylesheet" type="text/css">
-    <link href="../index.css" rel="stylesheet" type="text/css">
-        
-    <style>
-      header {
-        text-align: center;
-      }
-
-      h1 {
-        font-size: 1.75rem; /* Adjust the font size as needed */
-      }
-
-      nav a {
-        display: inline-block; /* Allow links to wrap to the next line as a whole */
-        margin-right: 10px; /* Add some spacing between links */
-      }
-    </style>
+    <script src="/menu.js" defer></script>
   </head>
   <body>
-    <header>
-      <h1><a href="/">Bitcoin Builders ATX</a></h1>
-      <nav>
-        <a href="https://luma.com/calendar/cal-a9wRNBLgALnsGj9" target="_blank">Calendar</a>
+    <header class="site-header">
+      <div class="header-row">
+        <h1 class="site-title"><a href="/">Bitcoin Builders ATX</a></h1>
+        <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="Open navigation menu">
+          <span class="menu-icon" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <span class="menu-label">Menu</span>
+        </button>
+      </div>
+      <nav class="site-nav" id="site-nav" aria-label="Primary navigation">
+        <a href="https://luma.com/calendar/cal-a9wRNBLgALnsGj9" target="_blank" rel="noopener">Calendar</a>
         <a href="/past-events/">Past Events</a>
         <a href="/builders-network/">Start a City</a>
-        <a href="https://x.com/BTCBuildersClub" target="_blank">X</a>
-        <a href="https://github.com/PlebLab/BitcoinBuilderATX" target="_blank">GitHub</a>
+        <a href="https://x.com/BTCBuildersClub" target="_blank" rel="noopener">X</a>
+        <a href="https://github.com/PlebLab/BitcoinBuilderATX" target="_blank" rel="noopener">GitHub</a>
         <a href="/feed.xml">RSS</a>
       </nav>
     </header>
@@ -53,7 +45,7 @@
   Everyone is welcome, whether you're an experienced product manager or designer, just starting out, or simply curious to learn.
 </p>
 
-<img src="https://avatars.githubusercontent.com/u/215772759?v=4" alt="Bitcoin Builders Club Logo" style="max-width: 20%; height: auto;">
+<img class="site-logo" src="https://avatars.githubusercontent.com/u/215772759?v=4" alt="Bitcoin Builders Club Logo">
 
 <h2>Bitcoin Builders Club</h2>
 <ul class="posts">
