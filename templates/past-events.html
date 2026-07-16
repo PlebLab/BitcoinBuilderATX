@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Past Events</h1>
+<p>Previous Bitcoin Builders ATX meetups and community events.</p>
+
+{% set events = get_section(path="_index.md") %}
+<ul class="posts">
+  {% for event in events.pages %}
+    {% if not event.extra.show_on_homepage %}
+      <li>
+        <time>{{ event.date | date(format="%d %b %Y") }}</time>
+        »
+        <a href="{{ event.permalink | safe }}">{{ event.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endblock content %}
