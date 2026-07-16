@@ -1,6 +1,8 @@
 +++
 title = "AI Startup Rodeo at SXSW '26 (Unofficial)"
 date = 2026-03-10
+[extra]
+show_on_homepage = false
 +++
 
 - Event: [AI Startup Rodeo](https://luma.com/jvi9l17h)

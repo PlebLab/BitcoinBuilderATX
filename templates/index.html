@@ -8,14 +8,16 @@
 
 <img src="https://avatars.githubusercontent.com/u/215772759?v=4" alt="Bitcoin Builders Club Logo" style="max-width: 20%; height: auto;">
 
-<h2>Socratic Seminars</h2>
+<h2>Bitcoin Socratic Seminars</h2>
 <ul class="posts">
-  {% for page in section.pages %}
-    <li>
-      <time>{{ page.date | date(format="%d %b %Y") }}</time>
-      »
-      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
-    </li>
+  {% for page in section.pages | reverse %}
+    {% if page.extra.show_on_homepage %}
+      <li>
+        <time>{{ page.date | date(format="%d %b %Y") }}</time>
+        »
+        <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
 {% endblock content %}
