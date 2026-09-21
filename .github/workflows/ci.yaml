@@ -9,6 +9,9 @@ on:
       - main
   workflow_dispatch:  # Enables manual runs
 
+permissions:
+  contents: write
+
 defaults:
   run:
     shell: bash
