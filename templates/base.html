@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>
-      Bitcoin Builders ATX{% if page.title %} | {{ page.title }}{% endif %}
+      Bitcoin Builders ATX{% if page is defined and page.title %} | {{ page.title }}{% endif %}
     </title>
     <meta name="description" content="Website for Bitcoin Builders Club in Austin, Texas.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
