@@ -18,7 +18,16 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v3.0.0
-      - run: brew install zola
+      - name: Install Zola 0.22.1
+        run: |
+          case "$(uname -m)" in
+            arm64|aarch64) asset=zola-v0.22.1-aarch64-apple-darwin.tar.gz ;;
+            *) asset=zola-v0.22.1-x86_64-apple-darwin.tar.gz ;;
+          esac
+          curl -sL -o zola.tar.gz "https://github.com/getzola/zola/releases/download/v0.22.1/${asset}"
+          tar -xzf zola.tar.gz
+          sudo mv zola /usr/local/bin/zola
+          zola --version
       - run: zola build
       - run: cp CNAME public/
       - name: Deploy
